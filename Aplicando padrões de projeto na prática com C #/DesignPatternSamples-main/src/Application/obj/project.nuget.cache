@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tsP+qI0fPnnfPEM1WRdNHfEkNoF8sgcuydIKzCtrBOZ9OdcNwqrYRGeJ6kLiGuISSBLFiTJIxUeA+N5pxyaRlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leosa\\Downloads\\DesignPatternSamples-main\\src\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leosa\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\leosa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\leosa\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

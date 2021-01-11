@@ -1,1 +1,1 @@
-# Aplicando padrões de projeto na prática com C #
+# Aplicando padrões de projeto na prática com C# #
